@@ -1,0 +1,751 @@
+{
+  "Packages": [
+    {
+      "Package": {
+        "Id": "Microsoft.CognitiveServices.Speech",
+        "Version": "1.6.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\microsoft.cognitiveservices.speech/1.6.0\\lib/net461/Microsoft.CognitiveServices.Speech.csharp.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "Speech",
+        "Version": "1.0.7"
+      },
+      "Assemblies": [
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\speech/1.0.7\\lib/Text-To-Speech.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.6.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.excel.activities/2.6.3\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.excel.activities/2.6.3\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.excel.activities/2.6.3\\lib/net461/UiPath.Excel.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.GoogleSpeech.Activities",
+        "Version": "0.1.6850.39757"
+      },
+      "Assemblies": [
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\google.api.commonprotos/1.2.0\\lib/net45/Google.Api.CommonProtos.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\google.api.gax/2.4.0\\lib/net45/Google.Api.Gax.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\google.api.gax.grpc/2.4.0\\lib/net45/Google.Api.Gax.Grpc.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\google.api.gax.rest/2.3.0\\lib/net45/Google.Api.Gax.Rest.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\google.apis/1.34.0\\lib/net45/Google.Apis.PlatformServices.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\google.apis/1.34.0\\lib/net45/Google.Apis.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\google.apis.auth/1.34.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\google.apis.auth/1.34.0\\lib/net45/Google.Apis.Auth.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\google.apis.core/1.34.0\\lib/net45/Google.Apis.Core.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\google.apis.speech.v1beta1/1.34.0.1246\\lib/net45/Google.Apis.Speech.v1beta1.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\google.cloud.speech.v1/1.0.1\\lib/net45/Google.Cloud.Speech.V1.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\google.longrunning/1.0.0\\lib/net45/Google.LongRunning.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\google.protobuf/3.5.1\\lib/net45/Google.Protobuf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\grpc.auth/1.12.0\\lib/net45/Grpc.Auth.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\grpc.core/1.12.0\\lib/net45/Grpc.Core.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\jh.google.cloud.texttospeech.v1/1.0.2\\lib/net45/Google.Cloud.TextToSpeech.V1.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\naudio/1.8.4\\lib/net35/NAudio.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\system.interactive.async/3.2.0\\lib/net46/System.Interactive.Async.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\system.net.http/4.3.1\\lib/net46/System.Net.Http.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\system.security.cryptography.algorithms/4.3.0\\lib/net461/System.Security.Cryptography.Algorithms.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\system.security.cryptography.encoding/4.3.0\\lib/net46/System.Security.Cryptography.Encoding.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\system.security.cryptography.primitives/4.3.0\\lib/net46/System.Security.Cryptography.Primitives.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\system.security.cryptography.x509certificates/4.3.0\\lib/net461/System.Security.Cryptography.X509Certificates.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.googlespeech.activities/0.1.6850.39757\\lib/net452/UiPath.GoogleSpeech.Activities.Design.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.googlespeech.activities/0.1.6850.39757\\lib/net452/UiPath.GoogleSpeech.Activities.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.googlespeech.activities/0.1.6850.39757\\lib/net452/UiPath.GoogleSpeech.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "1.6.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\microsoft.extensions.filesystemglobbing/2.2.0\\lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.mail.activities/1.6.0\\lib/net461/MailKit.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.mail.activities/1.6.0\\lib/net461/MimeKit.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.mail.activities/1.6.0\\lib/net461/UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.mail.activities/1.6.0\\lib/net461/UiPath.Mail.Activities.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.mail.activities/1.6.0\\lib/net461/UiPath.Mail.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Python.Activities",
+        "Version": "1.1.6863.33404"
+      },
+      "Assemblies": [
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/UiPath.Python.Activities.Design.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/UiPath.Python.Activities.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/UiPath.Python.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/x64/Python.Runtime.35.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/x64/Python.Runtime.36.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.27.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.33.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.34.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.35.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.python.activities/1.1.6863.33404\\lib/net452/x86/Python.Runtime.36.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "19.8.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\microsoft.extensions.filesystemglobbing/2.2.0\\lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.20\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/UiPath.System.Activities.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "19.8.0-ce"
+      },
+      "Assemblies": [
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath/19.8.7173.31251-ce\\lib/UiPath.Interop.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.ocr.contracts/2.1.0\\lib/net45/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/UiPath.Wizards.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.AbbyyCloud.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.AbbyyFRE11.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.AbbyyFRE12.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.AbbyyFRECommon.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.Core.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\Roshni - Skcript\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.dll"
+      ]
+    }
+  ],
+  "Conflicts": [],
+  "ResolvedDependencies": {
+    "AvalonEdit": {
+      "Id": "AvalonEdit",
+      "Version": "5.0.3",
+      "Dependencies": []
+    },
+    "BouncyCastle": {
+      "Id": "BouncyCastle",
+      "Version": "1.8.5",
+      "Dependencies": []
+    },
+    "ClosedXML": {
+      "Id": "ClosedXML",
+      "Version": "0.87.1",
+      "Dependencies": [
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        }
+      ]
+    },
+    "CsvHelper": {
+      "Id": "CsvHelper",
+      "Version": "2.13.5",
+      "Dependencies": []
+    },
+    "DocumentFormat.OpenXml": {
+      "Id": "DocumentFormat.OpenXml",
+      "Version": "2.5.0",
+      "Dependencies": []
+    },
+    "Extended.Wpf.Toolkit": {
+      "Id": "Extended.Wpf.Toolkit",
+      "Version": "2.8.0",
+      "Dependencies": []
+    },
+    "Google.Api.CommonProtos": {
+      "Id": "Google.Api.CommonProtos",
+      "Version": "1.2.0",
+      "Dependencies": [
+        {
+          "Item1": "Google.Protobuf",
+          "Item2": "[3.5.1, )"
+        }
+      ]
+    },
+    "Google.Api.Gax": {
+      "Id": "Google.Api.Gax",
+      "Version": "2.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.2, )"
+        },
+        {
+          "Item1": "System.Interactive.Async",
+          "Item2": "[3.1.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.1.1, )"
+        }
+      ]
+    },
+    "Google.Api.Gax.Grpc": {
+      "Id": "Google.Api.Gax.Grpc",
+      "Version": "2.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Google.Api.CommonProtos",
+          "Item2": "[1.2.0, )"
+        },
+        {
+          "Item1": "Google.Api.Gax",
+          "Item2": "[2.4.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.34.0, )"
+        },
+        {
+          "Item1": "Grpc.Auth",
+          "Item2": "[1.12.0, )"
+        },
+        {
+          "Item1": "Grpc.Core",
+          "Item2": "[1.12.0, )"
+        }
+      ]
+    },
+    "Google.Api.Gax.Rest": {
+      "Id": "Google.Api.Gax.Rest",
+      "Version": "2.3.0",
+      "Dependencies": [
+        {
+          "Item1": "Google.Api.Gax",
+          "Item2": "[2.3.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.32.2, )"
+        }
+      ]
+    },
+    "Google.Apis": {
+      "Id": "Google.Apis",
+      "Version": "1.34.0",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis.Core",
+          "Item2": "[1.34.0, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.1, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.2, )"
+        }
+      ]
+    },
+    "Google.Apis.Auth": {
+      "Id": "Google.Apis.Auth",
+      "Version": "1.34.0",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis.Core",
+          "Item2": "[1.34.0, )"
+        },
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.34.0, )"
+        }
+      ]
+    },
+    "Google.Apis.Core": {
+      "Id": "Google.Apis.Core",
+      "Version": "1.34.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.1, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.2, )"
+        }
+      ]
+    },
+    "Google.Apis.Speech.v1beta1": {
+      "Id": "Google.Apis.Speech.v1beta1",
+      "Version": "1.34.0.1246",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.34.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.34.0, )"
+        }
+      ]
+    },
+    "Google.Cloud.Speech.V1": {
+      "Id": "Google.Cloud.Speech.V1",
+      "Version": "1.0.1",
+      "Dependencies": [
+        {
+          "Item1": "Google.Api.Gax.Grpc",
+          "Item2": "[2.1.0, )"
+        },
+        {
+          "Item1": "Google.LongRunning",
+          "Item2": "[1.0.0, )"
+        },
+        {
+          "Item1": "Grpc.Core",
+          "Item2": "[1.6.1, )"
+        }
+      ]
+    },
+    "Google.LongRunning": {
+      "Id": "Google.LongRunning",
+      "Version": "1.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Google.Api.Gax.Grpc",
+          "Item2": "[2.1.0, )"
+        },
+        {
+          "Item1": "Google.Protobuf",
+          "Item2": "[3.4.1, )"
+        },
+        {
+          "Item1": "Grpc.Core",
+          "Item2": "[1.6.1, )"
+        }
+      ]
+    },
+    "Google.Protobuf": {
+      "Id": "Google.Protobuf",
+      "Version": "3.5.1",
+      "Dependencies": []
+    },
+    "Grpc.Auth": {
+      "Id": "Grpc.Auth",
+      "Version": "1.12.0",
+      "Dependencies": [
+        {
+          "Item1": "Grpc.Core",
+          "Item2": "[1.12.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.21.0, )"
+        }
+      ]
+    },
+    "Grpc.Core": {
+      "Id": "Grpc.Core",
+      "Version": "1.12.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Interactive.Async",
+          "Item2": "[3.1.1, )"
+        }
+      ]
+    },
+    "Humanizer.Core": {
+      "Id": "Humanizer.Core",
+      "Version": "2.4.2",
+      "Dependencies": []
+    },
+    "interop.domino.dll": {
+      "Id": "interop.domino.dll",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "JH.Google.Cloud.TextToSpeech.V1": {
+      "Id": "JH.Google.Cloud.TextToSpeech.V1",
+      "Version": "1.0.2",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.33.0, )"
+        },
+        {
+          "Item1": "Google.Api.Gax",
+          "Item2": "[2.3.0, )"
+        },
+        {
+          "Item1": "Google.Api.Gax.Rest",
+          "Item2": "[2.3.0, )"
+        }
+      ]
+    },
+    "Microsoft.AspNet.SignalR.Client": {
+      "Id": "Microsoft.AspNet.SignalR.Client",
+      "Version": "2.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[6.0.4, )"
+        }
+      ]
+    },
+    "Microsoft.CognitiveServices.Speech": {
+      "Id": "Microsoft.CognitiveServices.Speech",
+      "Version": "1.6.0",
+      "Dependencies": []
+    },
+    "Microsoft.Exchange.WebServices": {
+      "Id": "Microsoft.Exchange.WebServices",
+      "Version": "2.2.0",
+      "Dependencies": []
+    },
+    "Microsoft.Extensions.FileSystemGlobbing": {
+      "Id": "Microsoft.Extensions.FileSystemGlobbing",
+      "Version": "2.2.0",
+      "Dependencies": []
+    },
+    "Microsoft.Rest.ClientRuntime": {
+      "Id": "Microsoft.Rest.ClientRuntime",
+      "Version": "2.3.20",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        }
+      ]
+    },
+    "Microsoft.VisualStudio.OLE.Interop": {
+      "Id": "Microsoft.VisualStudio.OLE.Interop",
+      "Version": "7.10.6071",
+      "Dependencies": []
+    },
+    "NAudio": {
+      "Id": "NAudio",
+      "Version": "1.8.4",
+      "Dependencies": []
+    },
+    "Newtonsoft.Json": {
+      "Id": "Newtonsoft.Json",
+      "Version": "11.0.2",
+      "Dependencies": []
+    },
+    "NPOI": {
+      "Id": "NPOI",
+      "Version": "2.4.1",
+      "Dependencies": [
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "SharpZipLib": {
+      "Id": "SharpZipLib",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "Speech": {
+      "Id": "Speech",
+      "Version": "1.0.7",
+      "Dependencies": []
+    },
+    "System.Interactive.Async": {
+      "Id": "System.Interactive.Async",
+      "Version": "3.2.0",
+      "Dependencies": []
+    },
+    "System.Net.Http": {
+      "Id": "System.Net.Http",
+      "Version": "4.3.1",
+      "Dependencies": [
+        {
+          "Item1": "System.Security.Cryptography.X509Certificates",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "System.Security.Cryptography.Algorithms": {
+      "Id": "System.Security.Cryptography.Algorithms",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Security.Cryptography.Primitives",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "System.Security.Cryptography.Encoding": {
+      "Id": "System.Security.Cryptography.Encoding",
+      "Version": "4.3.0",
+      "Dependencies": []
+    },
+    "System.Security.Cryptography.Primitives": {
+      "Id": "System.Security.Cryptography.Primitives",
+      "Version": "4.3.0",
+      "Dependencies": []
+    },
+    "System.Security.Cryptography.X509Certificates": {
+      "Id": "System.Security.Cryptography.X509Certificates",
+      "Version": "4.3.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Security.Cryptography.Algorithms",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Security.Cryptography.Encoding",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "System.ValueTuple": {
+      "Id": "System.ValueTuple",
+      "Version": "4.5.0",
+      "Dependencies": []
+    },
+    "UiPath": {
+      "Id": "UiPath",
+      "Version": "19.8.7173.31251-ce",
+      "Dependencies": []
+    },
+    "UiPath.Excel.Activities": {
+      "Id": "UiPath.Excel.Activities",
+      "Version": "2.6.3",
+      "Dependencies": [
+        {
+          "Item1": "ClosedXML",
+          "Item2": "[0.87.1, )"
+        },
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        },
+        {
+          "Item1": "Microsoft.VisualStudio.OLE.Interop",
+          "Item2": "[7.10.6071, )"
+        },
+        {
+          "Item1": "NPOI",
+          "Item2": "[2.4.1, )"
+        },
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "UiPath.GoogleSpeech.Activities": {
+      "Id": "UiPath.GoogleSpeech.Activities",
+      "Version": "0.1.6850.39757",
+      "Dependencies": [
+        {
+          "Item1": "System.Interactive.Async",
+          "Item2": "[3.2.0, )"
+        },
+        {
+          "Item1": "Google.Api.Gax",
+          "Item2": "[2.4.0, )"
+        },
+        {
+          "Item1": "Google.Api.Gax.Grpc",
+          "Item2": "[2.4.0, )"
+        },
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.34.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.34.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Speech.v1beta1",
+          "Item2": "[1.34.0.1246, )"
+        },
+        {
+          "Item1": "Google.Cloud.Speech.V1",
+          "Item2": "[1.0.1, )"
+        },
+        {
+          "Item1": "Google.Protobuf",
+          "Item2": "[3.5.1, )"
+        },
+        {
+          "Item1": "Grpc.Core",
+          "Item2": "[1.12.0, )"
+        },
+        {
+          "Item1": "JH.Google.Cloud.TextToSpeech.V1",
+          "Item2": "[1.0.2, )"
+        },
+        {
+          "Item1": "NAudio",
+          "Item2": "[1.8.4, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.1, )"
+        }
+      ]
+    },
+    "UiPath.Mail.Activities": {
+      "Id": "UiPath.Mail.Activities",
+      "Version": "1.6.0",
+      "Dependencies": [
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "Microsoft.Exchange.WebServices",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.FileSystemGlobbing",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "BouncyCastle",
+          "Item2": "[1.8.5, )"
+        },
+        {
+          "Item1": "interop.domino.dll",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "UiPath.OCR.Contracts": {
+      "Id": "UiPath.OCR.Contracts",
+      "Version": "2.1.0",
+      "Dependencies": []
+    },
+    "UiPath.Python.Activities": {
+      "Id": "UiPath.Python.Activities",
+      "Version": "1.1.6863.33404",
+      "Dependencies": []
+    },
+    "UiPath.System.Activities": {
+      "Id": "UiPath.System.Activities",
+      "Version": "19.8.0",
+      "Dependencies": [
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "Microsoft.AspNet.SignalR.Client",
+          "Item2": "[2.4.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.FileSystemGlobbing",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        }
+      ]
+    },
+    "UiPath.UIAutomation.Activities": {
+      "Id": "UiPath.UIAutomation.Activities",
+      "Version": "19.8.0-ce",
+      "Dependencies": [
+        {
+          "Item1": "UiPath",
+          "Item2": "[19.8.7173.31251-ce, )"
+        },
+        {
+          "Item1": "UiPath.Vision",
+          "Item2": "[1.7.0, )"
+        },
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.1.0, )"
+        },
+        {
+          "Item1": "AvalonEdit",
+          "Item2": "[5.0.3, )"
+        },
+        {
+          "Item1": "Extended.Wpf.Toolkit",
+          "Item2": "[2.8.0, )"
+        },
+        {
+          "Item1": "Humanizer.Core",
+          "Item2": "[2.4.2, )"
+        }
+      ]
+    },
+    "UiPath.Vision": {
+      "Id": "UiPath.Vision",
+      "Version": "1.7.0",
+      "Dependencies": []
+    }
+  }
+}
